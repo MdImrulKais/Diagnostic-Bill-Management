@@ -1,6 +1,6 @@
 # Diagnostic-Bill-Management
 
-This project can helps the Diagnostic center for their bill management.It is very usefull project for a Diagnostic cente ror a clinic.
+This project can helps the Diagnostic center for their bill management.It is very usefull project for a Diagnostic center or a clinic.
 An admin can store all the data for their institution.And by this system they can easily communicate with their client and easily monitor
 their billing system.
 
